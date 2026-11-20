@@ -3,6 +3,7 @@
 SQL and Python analysis of a B2B SaaS subscription dataset: MRR and ARR, churn, cohort retention and customer lifetime value (LTV). Period: January 2023 to December 2024.
 
 **Stack:** SQLite (in-memory), pandas, matplotlib, seaborn, Jupyter
+
 **Dataset:** RavenStack (Kaggle): accounts (500 rows), subscriptions (5,000), churn_events (600), feature_usage (25,000), support_tickets (2,000)
 
 ## Executive Summary
